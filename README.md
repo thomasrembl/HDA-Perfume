@@ -2,7 +2,7 @@
 
 A Houdini SOP asset that generates a perfume bottle procedurally. Bottle, cap, spray, label and liquid each have their own parameter tab.
 
-Project page: https://thomasremblier.fr
+Project page: https://thomasremblier.fr/fr/projet/perfume-generator/
 
 ![Perfume generator](preview.jpg)
 
